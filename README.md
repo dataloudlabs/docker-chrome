@@ -41,4 +41,4 @@ Now, in the client host open your vnc connection with
 
     open vnc://127.0.0.1:5902
     
-### **Once again, this is not completelly secure. Even using the X11 forwarding anyone might be temped to fiddle with the vnc connection on your localhost**
+### **Once again, this is not completelly secure. Even using the X11 forwarding anyone might be temped to fiddle with the vnc connection on the side of your client host**
